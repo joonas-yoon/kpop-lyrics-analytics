@@ -27,3 +27,7 @@
 ## 영어 가사 요약
 
 ![](./docs/word_cloud_en.png)
+
+## 연도별 한/영 비율
+
+![](./docs/ratio.png)
