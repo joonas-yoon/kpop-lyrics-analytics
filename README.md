@@ -6,27 +6,27 @@
 
 ## 한글 가사 전체 요약
 
-![](./docs/word_cloud_kr_all.png)
+![](./docs/konlpy/word_cloud_kr_all.png)
 
 ## 한글 명사 요약
 
-![](./docs/word_cloud_kr_noun.png)
+![](./docs/konlpy/word_cloud_kr_noun.png)
 
 ## 한글 동사 요약
 
-![](./docs/word_cloud_kr_verb.png)
+![](./docs/konlpy/word_cloud_kr_verb.png)
 
 ## 한글 형용사 요약
 
-![](./docs/word_cloud_kr_adj.png)
+![](./docs/konlpy/word_cloud_kr_adj.png)
 
 ## 한글 명사와 동사 요약
 
-![](./docs/word_cloud_kr_noun+verb.png)
+![](./docs/konlpy/word_cloud_kr_noun+verb.png)
 
 ## 영어 가사 요약
 
-![](./docs/word_cloud_en.png)
+![](./docs/konlpy/word_cloud_en.png)
 
 ## 연도별 한/영 비율
 
