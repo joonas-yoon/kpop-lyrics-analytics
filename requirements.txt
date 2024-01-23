@@ -50,6 +50,7 @@ pytz==2023.3.post1
 pyzmq==25.1.2
 regex==2023.12.25
 requests==2.31.0
+scipy==1.12.0
 seaborn==0.13.1
 six==1.16.0
 soupsieve==2.5
