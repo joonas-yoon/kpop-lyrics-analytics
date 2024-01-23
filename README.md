@@ -20,6 +20,10 @@
 
 ![](./docs/ko_ratio_per_year.png)
 
+## 연도별 가사 분포
+
+![](./docs/kiwi/word_freq_r_per_year.png)
+
 ## 연도별 가사 반복도
 
 가사를 공백 단위로 분리하였을 때, 단 하나의 구절도 2번 이상 반복되지 않는다면 `1.0` 이다.
