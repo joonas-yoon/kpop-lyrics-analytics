@@ -18,7 +18,7 @@
 
 ## 연도별 한/영 비율
 
-![](./docs/ratio.png)
+![](./docs/ko_ratio_per_year.png)
 
 ## 연도별 가사 반복도
 
