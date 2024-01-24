@@ -24,10 +24,12 @@
 
 ![](./docs/kiwi/word_freq_r_per_year.png)
 
-## 연도별 가사 반복도
+## 가사 반복도
 
-가사를 공백 단위로 분리하였을 때, 단 하나의 구절도 2번 이상 반복되지 않는다면 `1.0` 이다.
+반복도는 {노래 가사 중 서로 다른 위치의 어떤 두 단어를 골랐을 때, 그 단어가 같을 확률} X {노래 가사 길이} 로 구했다.
 
-애국가는 `6.32` 이며, 뉴진스의 `ETA`는 `14.87`, 티아라의 Bo Peep Bo Peep은 `21.67` 이다.
+애국가는 `0.1146`, 뉴진스의 ETA는 `0.165`, 레드벨벳의 Dumb Dumb은 `2.937` 이다.
 
-![](./docs/repeatability_per_year.png)
+|**노래별(참고용)**|**연도별**|
+|:-:|:-:|
+|![](./docs/repeatability_top.png)|![](./docs/repeatability_per_year.png)|
